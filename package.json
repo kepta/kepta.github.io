@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/kepta/kushanjoshi.com/issues"
   },
-  "homepage": "https://github.com/kepta/kushanjoshi.com#readme"
+  "homepage": "https://github.com/kepta/kushanjoshi.com#readme",
+  "dependencies": {
+    "postcss": "^5.0.10",
+    "postcss-import": "^7.1.0"
+  }
 }
