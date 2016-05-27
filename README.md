@@ -1,2 +1,0 @@
-# kushanjoshi.com
-website
